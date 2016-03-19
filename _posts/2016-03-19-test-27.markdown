@@ -1,0 +1,6 @@
+---
+published: true
+title: Test 27
+layout: post
+---
+And here is\n\n- one more\n- try.\n\nWonder if it\'ll work.
