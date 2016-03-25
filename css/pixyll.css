@@ -300,7 +300,7 @@ h6 {
   .posts .post {
     margin-bottom: 2rem;
     padding-bottom: 1rem;
-    border-bottom: thin solid #f3f3f3;
+    border-top: thin solid #f3f3f3;
   }
 
   .posts .post:last-child {
