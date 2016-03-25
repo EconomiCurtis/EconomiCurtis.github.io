@@ -96,7 +96,6 @@ body {
   margin-bottom: 1rem;
   padding-bottom: .5rem;
   border-bottom: thin solid #f3f3f3;
-  border-top: thin solid #f3f3f3;
 }
 
 .posts .post:last-child {
@@ -145,6 +144,7 @@ body {
 
 .wrap .measure {
   margin: 0 auto;
+  border-bottom: thin solid #f3f3f3;
 }
 
 .meta,
