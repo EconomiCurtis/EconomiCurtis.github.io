@@ -102,6 +102,7 @@ body {
   border-bottom: none;
   margin-bottom: .5rem;
   padding-bottom: 0;
+  border-bottom: thin solid #f3f3f3;
 }
 
 .post-link .post-title {
