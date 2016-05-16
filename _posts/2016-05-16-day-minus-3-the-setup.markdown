@@ -5,7 +5,7 @@ layout: post
 ---
 Hi All,
 
-It's actually happening. 
+It's all actually happening. 
 
 In a few days I'll be on a 1000 mile hike starting in Campo CA and ending in Yosemite Valley July 31st.  
 
