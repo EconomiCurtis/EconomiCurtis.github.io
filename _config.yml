@@ -1,10 +1,10 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://EconomiCurtis.github.io
-title: Curtis
-email: Curtisesjunk@gmail.com
+url: http://EconomiCurtis.github.io/pctblog
+title: Curtis' PCT Blog
+email: CurtisKephart@gmail.com
 author: Curtis
-description: My awesome new site
-paginate: 15
+description: My Blog of PCT What-not
+paginate: 30
 google_analytics: 
