@@ -1,6 +1,6 @@
 ---
 published: true
-title: Day Minus 3 The Setup
+title: Day Minus 3: The Setup
 layout: post
 ---
 Hi All,
